@@ -1,0 +1,8 @@
+git init
+git status
+git branch -m master main
+git remote add origin https://github.com/Trebesin-coding/ukol-github-prikazy-AspergerSenior98
+git pull origin main
+git add .
+git commit -m "nahrání webovky"
+git push origin main
